@@ -1,12 +1,40 @@
+## Hi there, I'm ChanhDay 👋
+<!-- Tuỳ chọn thêm 1 dòng giới thiệu ngắn -->
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/I.R.E.E.V.R.U.B.L/) 
+## 🌐 Socials
+<div align="center">
+  <a href="https://www.facebook.com/I.R.E.E.V.R.U.B.L/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <!-- Thêm sau nếu có -->
+  <!-- <a href="https://linkedin.com/in/..." target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
+</div>
 
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat-square&logo=Apache%20Ant&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats-ten-inky-33.vercel.app/api/?username=ChanhXaoSa&count_private=true&theme=tokyonight&showicons=true)<br/>
-![](https://github-readme-stats-ten-inky-33.vercel.app/api/top-langs/?username=ChanhXaoSa&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Tech Stack & Tools
 
----
-[![](https://visitcount.itsvg.in/api?id=ChanhXaoSa&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,htmx,react,nextjs,nestjs,nodejs,php,prisma,java,cs,cpp,c,py,dart,kotlin,flutter,mysql,postgres,sqlite,redis,firebase,cloudflare,gcp,docker,git,github,gitlab,gradle,postman,notion,figma,npm,pnpm&perline=15" />
+</div>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-ten-inky-33.vercel.app/api/?username=ChanhXaoSa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-ten-inky-33.vercel.app/api/top-langs/?username=ChanhXaoSa&theme=tokyonight&layout=compact&hide_border=true&langs_count=10" />
+</p>
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanhXaoSa&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChanhXaoSa&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+</p>
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChanhXaoSa&label=Profile%20Views&color=brightgreen&style=flat-square" />
+</p>
+
+<!-- Tuỳ chọn thêm phần đang nghe Spotify hoặc quote hay ho ở dưới cùng -->
