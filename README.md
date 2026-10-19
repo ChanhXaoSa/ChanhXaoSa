@@ -24,7 +24,7 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-stats-ten-inky-33.vercel.app/?user=ChanhXaoSa&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/?user=ChanhXaoSa&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🏆 GitHub Trophies
