@@ -18,8 +18,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-ten-inky-33.vercel.app/api/?username=ChanhXaoSa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats-ten-inky-33.vercel.app/api/top-langs/?username=ChanhXaoSa&theme=tokyonight&layout=compact&hide_border=true&langs_count=10" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ChanhXaoSa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ChanhXaoSa&theme=tokyonight&layout=compact&hide_border=true&langs_count=10" />
 </p>
 
 ## 🔥 Streak Stats
